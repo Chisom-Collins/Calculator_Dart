@@ -1,0 +1,4 @@
+This program was created with DART and Dart DateTime Utilities.
+It includes IF-statements , user inputs and a for-loop
+The first code that i did on mini calculator is a bit different from this current one.
+
